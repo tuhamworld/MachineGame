@@ -1,0 +1,12 @@
+body {
+  font-family: 'PT Times', 'Times New Roman', Times, serif;
+}
+
+p {
+    color: purple;
+    margin: 0.5em 0;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
